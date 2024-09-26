@@ -1,5 +1,6 @@
 import React from 'react'
 import { Button } from '../ui/button'
+import { extendTailwindMerge } from 'tailwind-merge'
 
 function Hero() {
   return (
